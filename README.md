@@ -127,6 +127,3 @@ Mobile-first layouts with clear buttons and cards
 
 
 ---
-
-Would you like a UI mockup of this layout? Or should I help you scaffold the code structure for Phase 1 (home + profiles + resource sharing)?
-
